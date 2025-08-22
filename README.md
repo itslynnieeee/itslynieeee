@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chrislynne Urriza!
 
 ## 🌟 Introduction
-Hi! I'm Chrislyne Urriza. Right now, I’m just starting my journey in tech and trying to learn more about programming and web development. I enjoy experimenting with code and seeing how things work (and sometimes break 😅).
+Hi! I'm Chrislynne Urriza. Right now, I’m just starting my journey in tech and trying to learn more about programming and web development. I enjoy experimenting with code and seeing how things work (and sometimes break 😅).
 
 ## 🎯 Goals
 - Learn more about different languages
